@@ -1,11 +1,11 @@
 {
-  "name": "json-loader-raw",
+  "name": "json-raw-loader",
   "version": "0.5.4",
-  "author": "Tobias Koppers @sokra",
-  "description": "json loader module for webpack",
+  "author": "Noah Robison-Cox @noahrc",
+  "description": "json raw loader module for webpack",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/noahrc/json-loader-raw.git"
+    "url": "https://github.com/noahrc/json-raw-loader.git"
   }
 }
